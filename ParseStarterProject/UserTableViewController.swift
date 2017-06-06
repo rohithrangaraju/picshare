@@ -2,9 +2,10 @@
 //  UserTableViewController.swift
 //  ParseStarterProject-Swift
 //
-//  Created by Rob Percival on 07/07/2016.
-//  Copyright © 2016 Parse. All rights reserved.
+//  Created by Rohith on 04/06/17.
+//  Copyright © 2017 Parse. All rights reserved.
 //
+
 
 import UIKit
 import Parse
