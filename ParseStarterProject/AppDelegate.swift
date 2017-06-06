@@ -1,12 +1,8 @@
-/**
-* Copyright (c) 2015-present, Parse, LLC.
-* All rights reserved.
-*
-* This source code is licensed under the BSD-style license found in the
-* LICENSE file in the root directory of this source tree. An additional grant
-* of patent rights can be found in the PATENTS file in the same directory.
-*/
-
+//  ParseStarterProject-Swift
+//
+//  Created by Rohith on 05/06/17.
+//  Copyright © 2017 Parse. All rights reserved.
+//
 import UIKit
 
 import Parse
